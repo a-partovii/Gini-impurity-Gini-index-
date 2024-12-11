@@ -1,6 +1,7 @@
 # Gini Impurity Calculation
 
-This project is a simple implementation to calculate the Gini Impurity for features in a dataset. It is part of a practice project assigned by a university professor, designed to help students learn basic data analysis concepts.
+This project is a simple implementation to calculate the Gini Impurity for features in a dataset. It is part of a practice project
+assigned by a university professor, designed to help students learn basic data analysis concepts.
 
 ## How It Works
 - The script processes an Excel file containing a dataset.
@@ -9,7 +10,7 @@ This project is a simple implementation to calculate the Gini Impurity for featu
 
 ## Requirements
 - Python 3.x
-- Required libraries: `pandas`, `openpyxl`
+- Required libraries: `pandas`
 
 ## Usage
 1. Make sure the dataset is in an Excel file.
@@ -21,7 +22,7 @@ This project is a simple implementation to calculate the Gini Impurity for featu
 - All features should be in numeric or categorical format.
 
 ## Documentation
-All details, including the explanation of the code and its output, are available in the `Documentation.pdf` file provided with this project.
+All details, including the explanation of the code and its output, are available in the `gini-impurity.pdf` file provided with this project.
 
 ## Disclaimer
 This is a simple exercise and not intended for production use. The goal is to understand the concept of Gini Impurity in a straightforward way.
